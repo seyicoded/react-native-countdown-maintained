@@ -30,7 +30,7 @@ Run `npm install react-native-countdown-component-maintained --save` OR `yarn ad
 
 ## Code
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from 'react-native-countdown-component-maintained';
 
 render() {
     return (
@@ -50,7 +50,7 @@ render() {
 
 ## Code
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from 'react-native-countdown-component-maintained';
 
 render() {
     return (
@@ -75,7 +75,7 @@ render() {
 
 ## Code
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from 'react-native-countdown-component-maintained';
 
 render() {
     return (
