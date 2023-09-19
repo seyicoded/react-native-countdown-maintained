@@ -1,10 +1,10 @@
 {
-  "name": "react-native-countdown-component",
+  "name": "react-native-countdown-component-maintained",
   "version": "2.7.1",
-  "description": "React Native CountDown Component",
+  "description": "React Native CountDown Component Maintained",
   "repository": {
     "type": "git",
-    "url": "https://github.com/talalmajali/react-native-countdown-component.git"
+    "url": "https://github.com/seyicoded/react-native-countdown-maintained.git"
   },
   "keywords": [
     "react-native",
@@ -21,9 +21,9 @@
     "name": "Talal Majali",
     "email": "t.majali93@gmail.com"
   },
-  "homepage": "https://github.com/talalmajali/react-native-countdown-component",
+  "homepage": "https://github.com/seyicoded/react-native-countdown-maintained",
   "bugs": {
-    "url": "https://github.com/talalmajali/react-native-countdown-component/issues"
+    "url": "https://github.com/seyicoded/react-native-countdown-maintained/issues"
   },
   "dependencies": {
     "lodash": "^4.17.13",
